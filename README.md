@@ -7,7 +7,10 @@ My seventh Frontend Mentor project
 **Live Site:** (https://organic-strawberries-kirilldevx.netlify.app)
 
 To view the project's source code, clone or download this repository. The main markup is in `index.html`, and the styles are in `style.css`.
-Чтобы посмотреть исходный код проекта, скопируйте или скачайте репозиторий. Основная разметка находится в index.html, а стили — в style.css.
+Чтобы посмотреть исходный код проекта, клонируйте этот репозиторий или скачайте его архив. Основная разметка находится в файле index.html, стили — в style.css. 
+
+The project also includes an interactive shopping cart with buttons to increase or decrease the quantity of items.
+В проекте также есть интерактивная корзина покупок с кнопками для увеличения или уменьшения количества товаров.
 
 ## Built with
 - HTML5
